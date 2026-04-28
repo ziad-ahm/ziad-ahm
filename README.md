@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ziad Ahmed
 
-💻 **Backend Developer | Java | Spring Boot**
+**💻 Backend Developer specializing in Java & Spring Boot**
 
 ---
 
