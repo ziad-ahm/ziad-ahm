@@ -7,7 +7,8 @@
 ## 🚀 About Me
 
 * 🎓 Student at **Business Information Systems – AAST (Arab Academy for Science, Technology)**
-* 💻 Passionate about **Backend Development**
+* 💻 Passionate about building backend systems and RESTful APIs using Java and Spring Boot.
+* 📚 Currently learning Spring Security, JWT Authentication, and scalable backend architecture.
 
 ---
 
@@ -18,7 +19,9 @@
 * Java
 * Spring Boot
 * Spring Data JPA
+* Spring Security
 * REST APIs
+* Hibernate
 
 **Database**
 
@@ -34,27 +37,8 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Student REST API
-
-A REST API built using **Spring Boot and JPA** to manage students.
-
-### 🔹 User Authentication System
-
-A Java-based system that handles authentication and user management.
-
-### 🔹 Student User Operations Management
-
-Spring Boot application for managing student operations.
-
----
-
 ## 📫 Contact Me
 
 📧 Email: **[ziaaahm@gmail.com](mailto:ziaaahm@gmail.com)**
+💼 LinkedIn: **[Ziad Ahmed](https://www.linkedin.com/in/ziad-ahmad-957277204/)**
 📍 Location: **Cairo, Egypt**
-
----
-
-⭐ Always learning and building backend systems.
